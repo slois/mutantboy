@@ -1,4 +1,4 @@
-baseurl = "https://slois.github.io/mutantboy"
+baseurl = "https://slois.github.io/mutantboy/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
