@@ -1,0 +1,18 @@
+---
+title: Welcome! To My First Post using Blogdown
+author: Sergio Lois
+date: '2022-03-11'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+# Using ggplot2 to test markdown rendering
+
+
+```{r}
+library(ggplot2)
+df <- data.frame(x=rnorm(100), y=runif(100)) 
+ggplot(data=df, aes(x=x, y=y)) + geom_point(shape=1) + theme_bw()
+```
+

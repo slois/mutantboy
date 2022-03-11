@@ -1,0 +1,19 @@
+---
+title: Welcome! To My First Post using Blogdown
+author: Sergio Lois
+date: '2022-03-11'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="using-ggplot2-to-test-markdown-rendering" class="section level1">
+<h1>Using ggplot2 to test markdown rendering</h1>
+<pre class="r"><code>library(ggplot2)
+df &lt;- data.frame(x=rnorm(100), y=runif(100)) 
+ggplot(data=df, aes(x=x, y=y)) + geom_point(shape=1) + theme_bw()</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+</div>
