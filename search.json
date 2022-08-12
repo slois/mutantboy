@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Welcome To My Blog!\n\n\n\nnews\n\n\n\n\n\n\n\nSergio Lois\n\n\nAug 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog!",
@@ -19,5 +12,12 @@
     "title": "Sergio Lois, PhD",
     "section": "",
     "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nExperienced and driven bioinformatics scientist with more than twelve years of experience working with genomic data. Strong background in computer programming language, and knowledge of various types of databases. Solid skills in statistics and algorithms. Passionate about data analysis and human biology.\n\n\n\n\n\n\nEducation\n\n\n\n\n\nUniversity Master’s Degree in Data Science\nUniversitat Oberta Catalunya (UOC) | Present\nPh.D in Bioinformatics\nUniversitat de Barcelona. Parc Cientific de Barcelona | Jul. 2012\nPostgraduate degree. Genomic, Proteomic and Bioinformatics\nUniversitat de Barcelona. Facultat de Física i Química | 2004\nBachelor of Science in Human Biology\nUniversitat Pompeu Fabra. Facultat de Ciencies de la Salut i de la Vida | Jul. 2003\n\n\n\n\n\n\n\n\n\nExperience\n\n\n\n\n\nBioinformatics specialist at Sistemas Genómicos (SynLab Group) | Sep. 2014 - Present\nBioinformatician at Vall d’Hebron Research Institute (VHIR) | Jul. 2012 - Aug. 2014\nTranslational Bioinformatics group lead by Dr. Xavier de la Cruz (xavier.delacruz@vhir.org)\nBioinformatician at Institute of Predictive and Personalized Medicine of Cancer\nTumor progression group lead by Dr. Miguel Angel Peinado (mpeinado@igtp.cat) | Nov. 2008 - Jul. 2012\nPhD Student at Biomedical Research Group (IRBB)\nMolecular modelling and bioinformatics group lead by Dr. Modesto Orozco | Jul. 2003 - Nov. 2008\n\n\n\n\n\n\n\n\n\nTechnical Skills\n\n\n\n\n\n\nR/Python Programming\nData wrangling and visualization\nDBMS (Database Management)\nStatistical analysis\nSupervised/Unsupervised learning algorithms\nControl Version (Git)\nAgile (Project Management)\n\n\n\n\n\n\n\n\n\n\nSoft skills\n\n\n\n\n\n\nProblem solving\nCritical Thinking\nOrganizational abilities\nCommitment & Motivation\nTeamwork"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Welcome To My Blog!\n\n\n\nnews\n\n\n\n\n\n\n\nSergio Lois\n\n\nAug 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
