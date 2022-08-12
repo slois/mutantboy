@@ -1,19 +1,92 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Sergio Lois, PhD"
+subtitle: Bioinformatician | Data Scientist
+image: DSC_0053.JPG # IMG_20191124_095417.jpg
 about:
-  template: jolla
+  id: hero-heading
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/sergiolois
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/slois/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/slois
 ---
 
-About this blog
+-   ::: {#hero-heading}
+    Experienced and driven bioinformatics scientist with more than twelve years of experience working with genomic data. Strong background in computer programming language, and knowledge of various types of databases. Solid skills in statistics and algorithms. Passionate about data analysis and human biology.
+
+    ::: {.callout-note collapse="true"}
+    ## Education
+
+    **University Master's Degree in Data Science**
+
+    Universitat Oberta Catalunya (UOC) \| Present
+
+    **Ph.D in Bioinformatics**
+
+    Universitat de Barcelona. Parc Cientific de Barcelona \| Jul. 2012
+
+    **Postgraduate degree. Genomic, Proteomic and Bioinformatics**
+
+    Universitat de Barcelona. Facultat de Física i Química \| 2004
+
+    **Bachelor of Science in Human Biology**
+
+    Universitat Pompeu Fabra. Facultat de Ciencies de la Salut i de la Vida \| Jul. 2003
+    :::
+
+    ::: {.callout-note collapse="true"}
+    ## Experience
+
+    **Bioinformatics specialist at Sistemas Genómicos (SynLab Group)** \| Sep. 2014 - Present
+
+    **Bioinformatician at Vall d'Hebron Research Institute (VHIR)** \| Jul. 2012 - Aug. 2014
+
+    Translational Bioinformatics group lead by Dr. Xavier de la Cruz (xavier.delacruz\@vhir.org)
+
+    **Bioinformatician at Institute of Predictive and Personalized Medicine of Cancer**
+
+    Tumor progression group lead by Dr. Miguel Angel Peinado (mpeinado\@igtp.cat) \| Nov. 2008 - Jul. 2012
+
+    **PhD Student at Biomedical Research Group (IRBB)**
+
+    Molecular modelling and bioinformatics group lead by Dr. Modesto Orozco \| Jul. 2003 - Nov. 2008
+    :::
+
+    ::: {.callout-caution collapse="true"}
+    ## Technical Skills
+
+    -   R/Python Programming
+
+    -   Data wrangling and visualization
+
+    -   DBMS (Database Management)
+
+    -   Statistical analysis
+
+    -   Supervised/Unsupervised learning algorithms
+
+    -   Control Version (Git)
+
+    -   Agile (Project Management)
+    :::
+
+    ::: {.callout-tip collapse="true"}
+    ## Soft skills
+
+    -   Problem solving
+
+    -   Critical Thinking
+
+    -   Organizational abilities
+
+    -   Commitment & Motivation
+
+    -   Teamwork
+    :::
+    :::

@@ -1,0 +1,40 @@
+---
+title: "My Thesis"
+subtitle: "Bioinformatics study of epigenetic regulators"
+draft: true
+bibliography: references.bib
+---
+
+The work presented in my [thesis](http://diposit.ub.edu/dspace/bitstream/2445/36221/2/SLO_TESIS_DEFINITIVA.pdf) entitled "Bioinformatics study of epigenetic regulators" was directed by **Dr. Xavier de La Cruz** and resulted in three publications reflecting different aspects of the functional domains of epigenetic regulators (listed below in the chronological order of their publication):
+
+**Do protein motifs read the histone code?** Xavier de la Cruz, Sergio Lois, Sara Sánchez-Molina y Marian A. Martínez-Balbás. *BioEssays* 27:164-175, 2005. [@de2005]
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+The existence of different patterns of chemical modifications (acetylation, methylation, phosphorylation, ubiquitination and ADP-ribosylation) of the histone tails led, some years ago, to the histone code hypothesis. According to this hypothesis, these modifications would provide binding sites for proteins that can change the chromatin state to either active or repressed. Interestingly, some protein domains present in histone-modifying enzymes are known to interact with these covalent marks in the histone tails. This was first shown for the bromodomain, which was found to interact selectively with acetylated lysines at the histone tails. More recently, it has been described that the chromodomain can be targeted to methylation marks in histone N-terminal domains. Finally, the interaction between the SANT domain and histones is also well documented. 
+
+Overall, experimental evidence suggests that these domains could be involved in the recruitment of histone-modifying enzymes to discrete chromosomal locations, and/or in the regulation their enzymatic activity. Within this context, we review the distribution of bromodomains, chromodomains and SANT domains among chromatin-modifying enzymes and discuss how they can contribute to the translation of the histone code.
+:::
+
+**The functional modulation of epigenetic regulators by alternative splicing**. Sergio Lois, Noemí Blanco, Marian Martínez-Balbás and Xavier de la Cruz. *BMC Genomics*, 8:252, 2007.[@Lois2007]
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+**Background**: Epigenetic regulators (histone acetyltransferases, methyltransferases, chromatin-remodelling enzymes, etc) play a fundamental role in the control of gene expression by modifying the local state of chromatin. However, due to their recent discovery, little is yet known about their own regulation. This paper addresses this point, focusing on alternative splicing regulation, a mechanism already known to play an important role in other protein families, e.g. transcription factors, membrane receptors, etc.
+
+**Results**: To this end, we compiled the data available on the presence/absence of alternative splicing for a set of 160 different epigenetic regulators, taking advantage of the relatively large amount of unexplored data on alternative splicing available in public databases. We found that 49 % (70 % in human) of these genes express more than one transcript. We then studied their alternative splicing patterns, focusing on those changes affecting the enzyme's domain composition. In general, we found that these sequence changes correspond to different mechanisms, either repressing the enzyme's function (e.g. by creating dominant-negative inhibitors of the functional isoform) or creating isoforms with new functions.
+
+**Conclusion**: We conclude that alternative splicing of epigenetic regulators can be an important tool for the function modulation of these enzymes. Considering that the latter control the transcriptional state of large sets of genes, we propose that epigenetic regulation of gene expression is itself strongly regulated by alternative splicing.
+:::
+
+**Characterization of structural variability sheds light on the specificity determinants of the interaction between effector domains and histone tails**. Sergio Lois, Naiara Akizu, Gemma Mas de Xaxars, Iago Vázquez, Marian Martínez-Balbás and Xavier de la Cruz. *Epigenetic* 5:2, 137-148, 2010.[@Lois2010]
+
+
+:::{.callout-note collapse="true"}
+## Abstract
+
+Structural characterization of the interaction between histone tails and effector modules (bromodomains, chromodomains, PHD fingers, etc.) is fundamental to understand the mechanistic aspects of epigenetic regulation of gene expression. In recent years many researchers have applied this approach to specific systems, thus providing a valuable but fragmentary view of the histone-effector interaction. In our work we use this information to characterize the structural features of the two main components of this interaction, histone peptides and the binding site of effector domains (focusing on those which target modified lysines), and increase our knowledge on its specificity determinants. Our results show that the binding sites of effectors are structurally variable, but some clear trends allow their classification in three main groups: flat-groove, narrow-groove and cavity-insertion. In addition, we found that even within these classes binding site variability is substantial. These results in context with the work from other researchers indicate that the there are at least two determinants of binding specificity in the binding site of effector modules. Finally, our analysis of the histone peptides sheds light on the structural transition experienced by histone tails upon effector binding, showing that it may vary depending on the local properties of the sequence stretch considered, thus allowing us to identify an additional specificity determinant for this interaction. Overall, the results of our analysis contribute to clarify the origins of specificity: different regions of the binding site and, in particular, differences in the disorder-order transitions experienced by different histone sequence stretches upon binding. 
+:::
+

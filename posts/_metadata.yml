@@ -5,4 +5,14 @@
 freeze: true
 
 # Enable banner style title blocks
-title-block-banner: true
+title-block-banner: ../title_banner.jpg
+title-block-banner-color: white
+
+page-layout: full
+
+author:
+  - name: Sergio Lois
+    orcid: 0000-0002-6397-8693
+
+
+

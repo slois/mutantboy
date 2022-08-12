@@ -2,20 +2,36 @@ project:
   type: website
 
 website:
-  title: "mutantboy2"
+  #title: Portfolio
   navbar:
+    pinned: true
+    background: primary
+    search: true
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
       - icon: twitter
-        href: https://twitter.com
+        text: Twitter
+        href: https://twitter.com/sergiolois
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/slois/
+      - icon: github
+        text: Github
+        href: https://github.com/slois
+    left: 
+      - index.qmd
+      - text: "About me"
+        menu:
+          - text: Who am I?
+            href: about.qmd
+          - posts/thesis/mythesis.qmd
+          - posts/publications/publications.qmd
+  page-footer: "Copyright 2022, Sergio Lois"
 format:
   html:
-    theme: cosmo
+    theme: slate #flatly
     css: styles.css
 
 editor: visual
 
 execute:
-  freeze: auto
+  freeze: true

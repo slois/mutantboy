@@ -1,0 +1,14 @@
+{
+  "hash": "40f67316617654c3ed913d6842ffc678",
+  "result": {
+    "markdown": "---\ntitle: \"Sergio Lois, PhD\"\nimage: IMG_20191124_095417.jpg\nabout:\n  template: jolla\n  links:\n    - icon: twitter\n      text: Twitter\n      href: https://twitter.com/sergiolois\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/slois/\n    - icon: github\n      text: Github\n      href: https://github.com/slois\n---\n\n\nExperienced and driven bioinformatics scientist with more than twelve years of experience working with genomic data. Strong background in computer programming language, and knowledge of various types of databases. Solid skills in statistics and algorithms. Passionate about data analysis and human biology.\n\n\n::: {.cell .column-margin}\n::: {.cell-output-display}\n|Technical Skills                            |\n|:-------------------------------------------|\n|R programming                               |\n|Python programming                          |\n|Data wrangling and visualization            |\n|DBMS (Database management)                  |\n|Statistical analysis                        |\n|Supervised/Unsupervised learning algorithms |\n|Control version (Git)                       |\n|Agile (Project Management)                  |\n:::\n:::\n\n::: {.cell .column-margin}\n::: {.cell-output-display}\n|Soft skills              |\n|:------------------------|\n|Problem solving          |\n|Critical thinking        |\n|Organizational abilities |\n|Commitment & Motivation  |\n|Teamwork                 |\n:::\n:::\n\n\n\n## Education\n\n**University Master's Degree in Data Science**\n\nUniversitat Oberta Catalunya (UOC) \\| Present\n\n**Ph.D in Bioinformatics**\n\nUniversitat de Barcelona. Parc Cientific de Barcelona \\| Jul. 2012\n\n**Postgraduate degree. Genomic, Proteomic and Bioinformatics**\n\nUniversitat de Barcelona. Facultat de Física i Química \\| 2004\n\n**Bachelor of Science in Human Biology**\n\nUniversitat Pompeu Fabra. Facultat de Ciencies de la Salut i de la Vida \\| Jul. 2003\n\n## Experience\n\n**Bioinformatics specialist at Sistemas Genómicos (SynLab Group)** \\| Sep. 2014 - Present\n\n**Bioinformatician at Vall d'Hebron Research Institute (VHIR)** \\| Jul. 2012 - Aug. 2014\n\nTranslational Bioinformatics group lead by Dr. Xavier de la Cruz (xavier.delacruz\\@vhir.org)\n\n**Bioinformatician at Institute of Predictive and Personalized Medicine of Cancer**\n\nTumor progression group lead by Dr. Miguel Angel Peinado (mpeinado\\@igtp.cat) \\| Nov. 2008 - Jul. 2012\n\n**PhD Student at Biomedical Research Group (IRBB)**\n\nMolecular modelling and bioinformatics group lead by Dr. Modesto Orozco \\| Jul. 2003 - Nov. 2008",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

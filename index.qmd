@@ -1,20 +1,20 @@
 ---
-title: "MutantBoy"
+title: "Portfolio"
+subtitle: "Data Science & Bioinformatics"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: title_banner.jpg
+title-block-banner-color: white
 ---
 
 ## Hi Mutants!
 
 <!--# Phrase -->
 
-**"*Yeah, well, either you\'re part of the problem or you\'re part of the solution, or you\'re just part of the landscape*".**
-
-Robert de Niro as Sam - Ronin (1998)
+> "*Yeah, well, either you're part of the problem or you're part of the solution, or you're just part of the landscape*". **Robert de Niro as Sam - Ronin (1998)**
