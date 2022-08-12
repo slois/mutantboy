@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-subtitle: "Data Science & Bioinformatics"
+subtitle: "Sergio Lois PhD | Genomics Data Scientist"
 listing:
   contents: posts
   sort: "date desc"
