@@ -23,39 +23,25 @@ about:
     ::: {.callout-note collapse="true"}
     ## Education
 
-    **University Master's Degree in Data Science**
+    **University Master's Degree in Data Science** | Universitat Oberta Catalunya (UOC) \| Present
 
-    Universitat Oberta Catalunya (UOC) \| Present
+    **Ph.D in Bioinformatics** | Universitat de Barcelona. Parc Cientific de Barcelona \| Jul. 2012
 
-    **Ph.D in Bioinformatics**
+    **Postgraduate degree. Genomic, Proteomic and Bioinformatics** | Universitat de Barcelona. Facultat de Física i Química \| 2004
 
-    Universitat de Barcelona. Parc Cientific de Barcelona \| Jul. 2012
-
-    **Postgraduate degree. Genomic, Proteomic and Bioinformatics**
-
-    Universitat de Barcelona. Facultat de Física i Química \| 2004
-
-    **Bachelor of Science in Human Biology**
-
-    Universitat Pompeu Fabra. Facultat de Ciencies de la Salut i de la Vida \| Jul. 2003
+    **Bachelor of Science in Human Biology** | Universitat Pompeu Fabra. Facultat de Ciencies de la Salut i de la Vida \| Jul. 2003
     :::
 
     ::: {.callout-note collapse="true"}
     ## Experience
 
-    **Bioinformatics specialist at Sistemas Genómicos (SynLab Group)** \| Sep. 2014 - Present
+    **Bioinformatics specialist at Sistemas Genómicos (SynLab Group)** | Sep. 2014 - Present
 
-    **Bioinformatician at Vall d'Hebron Research Institute (VHIR)** \| Jul. 2012 - Aug. 2014
+    **Bioinformatician at Vall d'Hebron Research Institute (VHIR)** | Jul. 2012 - Aug. 2014 | Translational Bioinformatics group lead by Dr. Xavier de la Cruz (xavier.delacruz\@vhir.org)
 
-    Translational Bioinformatics group lead by Dr. Xavier de la Cruz (xavier.delacruz\@vhir.org)
+    **Bioinformatician at Institute of Predictive and Personalized Medicine of Cancer** | Tumor progression group lead by Dr. Miguel Angel Peinado (mpeinado@igtp.cat) | Nov. 2008 - Jul. 2012
 
-    **Bioinformatician at Institute of Predictive and Personalized Medicine of Cancer**
-
-    Tumor progression group lead by Dr. Miguel Angel Peinado (mpeinado\@igtp.cat) \| Nov. 2008 - Jul. 2012
-
-    **PhD Student at Biomedical Research Group (IRBB)**
-
-    Molecular modelling and bioinformatics group lead by Dr. Modesto Orozco \| Jul. 2003 - Nov. 2008
+    **PhD Student at Biomedical Research Group (IRBB)** | Molecular modelling and bioinformatics group lead by Dr. Modesto Orozco \| Jul. 2003 - Nov. 2008
     :::
 
     ::: {.callout-caution collapse="true"}

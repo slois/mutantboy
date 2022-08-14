@@ -13,8 +13,6 @@ title-block-banner: title_banner.jpg
 title-block-banner-color: white
 ---
 
-## Hi Mutants!
+## My home for data science
 
-<!--# Phrase -->
-
-> "*Yeah, well, either you're part of the problem or you're part of the solution, or you're just part of the landscape*". **Robert de Niro as Sam - Ronin (1998)**
+I have created this space with the idea of sharing concepts, ideas, code and projects on data science. If you think it might be of interest to you: **Welcome to my blog!**

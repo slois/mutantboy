@@ -25,6 +25,13 @@ website:
             href: about.qmd
           - posts/thesis/mythesis.qmd
           - posts/publications/publications.qmd
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: G-CV1HE8NZ9Y
+    anonymize-ip: true
   page-footer: "Copyright 2022, Sergio Lois"
 format:
   html:
