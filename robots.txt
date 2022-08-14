@@ -1,1 +1,1 @@
-Sitemap: https://github.com/slois/mutantboy/sitemap.xml
+Sitemap: https://slois.github.io/mutantboy/sitemap.xml
